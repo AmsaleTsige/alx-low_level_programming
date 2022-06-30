@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
  * main - Entry point*
- * Description:prints "\"with proper grammar, but the outcomeis a piece ofart"
+ * Description:prints "\"with proper grammar, but the outcomeis a piece ofart"*
  * Return: Always 0 (success)
 */
 int main(void)
