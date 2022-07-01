@@ -9,3 +9,4 @@ task 7 Write a program that prints the lowercase alphabet in reverse.
 task 8 Write a program that prints all the numbers of base 16 in lowercase.
 task 9 Write a program that prints all possible combinations of single-digit numbers.
 task 10 Write a program that prints all possible differnt combinations of tqo digits'
+task 11 Write a program that prints all posible differnt combinations of three digits.
