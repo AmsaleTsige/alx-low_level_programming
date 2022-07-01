@@ -3,3 +3,4 @@ task 1 This will print the last digit.
 task 2 Write a program that prints the alphabet in lowercase
 task 3 Write a program that prints in lowercase, and then in uppercase
 task 4 Write a program that printss the alphabet in lowercase
+task 5 Write a program that prints all single digit number of base 10 starting from 0.
