@@ -10,3 +10,4 @@ task 8 Write a function that prints every min
 task 9 Write a function that prints the 9 times
 task 10 Write a function that adds two integres
 task 11 Write a function that prints all natural number
+task 12 Write a function that prints the n
