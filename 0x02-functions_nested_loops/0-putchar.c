@@ -1,7 +1,8 @@
+#include <unistd.h>
 #include "main.h"
 /**
 * main - Entry point
-* Description: It prints _putchar, followed by a new line.
+* Description: It prints _putchar, followed by a new
 * Return: Always 0 (Success)
 */
 int main(void)
