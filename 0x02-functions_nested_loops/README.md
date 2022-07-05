@@ -5,4 +5,5 @@ task 3 Write a function that checks for lowercase character
 task 4 Write a function that checks for alphabetic character
 task 5 Write a function that prints the sign of a number
 task 6 Write a function that computers that absolute value of an integer
+task 7 Write a function that prints the last digit of a number
 task 11 Write a function that prints all natural number
