@@ -1,19 +1,18 @@
-#include <unistd.h>
+#include "holberton.h"
 #include "main.h"
 /**
-* main - prints _putchar
-* Return: 0 (Success)
+* main - Entry point
+* Description: It prints _putchar, followed by a new line.
+* Return: Always 0 (Success)
 */
 int main(void)
 {
-_putchart('_');
-_putchart('p');
-_putchart('u');
-_putchart('t');
-_putchart('c');
-_putchart('h');
-_putchart('a');
-_putchart('r');
-_putchart('\n');
+char *sh = "Holberton";
+while (*sh)
+{
+_putchar(*sh);
+sh++;
+}
+_putchar('\n');
 return (0);
 }
