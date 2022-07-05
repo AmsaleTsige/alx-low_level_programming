@@ -32,6 +32,7 @@ printf(", ");
 }
 n--;
 }
+}
 else
 {
 printf("98");
