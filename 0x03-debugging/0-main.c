@@ -1,0 +1,15 @@
+#include "main.h"
+
+/**
+ * main - will check for postive_or_negative
+ * Return: 0 up on success
+ */
+int main(void)
+{
+	int i;
+
+	i = 0;
+
+	postive_or_negative(i);
+	return (0);
+}
