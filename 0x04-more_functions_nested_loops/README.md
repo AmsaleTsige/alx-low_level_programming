@@ -9,3 +9,4 @@ task 6 Write a function that draws a straight line in the terminal.
 task 7 Write a function that draws a diagonal line on the terminal.
 task 8 Write a function that prints a square, followed by a new line.
 task 9 Write a program that prints the numbers from 1 to 100, followed by a new line.
+task 10 Write a function that prints a triangle, followed by a new line.
