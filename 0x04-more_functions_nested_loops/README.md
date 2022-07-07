@@ -7,3 +7,4 @@ task 4 Write a function that prints the numbers, from 0 to 9, followed by a new 
 task 5 Write a function that prints 10 times the numbers, from 0 to 14, followed by a new line.
 task 6 Write a function that draws a straight line in the terminal.
 task 7 Write a function that draws a diagonal line on the terminal.
+task 8 Write a function that prints a square, followed by a new line.
