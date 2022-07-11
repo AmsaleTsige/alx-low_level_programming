@@ -1,15 +1,14 @@
 #include "main.h"
-#include <stdio.h>
 /**
-* main - check the code
+* _strlen - check the code for Holberton School students.
+* @s: declaration of *s and paramters for the function _strlen
 * Return: Always 0.
 */
-int main(void)
+int _strlen(char *s)
 {
-char *str;
-int len;
-str = "My first strlen!";
-len = _strlen(str);
-printf("%d\n", len);
-return (0);
+int string;
+for (string = 0; s[string] != 0; string++)
+{
+}
+return (string);
 }
