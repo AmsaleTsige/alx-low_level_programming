@@ -8,3 +8,4 @@ task 6 Write a function that prints every other character of a string, starting 
 task 7 Write a function that prints half of a string, followed by a new line.
 task 8 Write a function that prints n elements
 task 9 Write a function that copies the string
+task 10 Write a function that convert a string to an integer.
