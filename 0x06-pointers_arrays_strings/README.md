@@ -10,3 +10,4 @@ task 7 Write a function that encodes a string into 1337.
 task 8 Write a function that encodes a string using rot13.
 task 9 Write a function that prints an integer.
 task 10 A dream doesn't become reality through magic; it takes sweat, determination and hard work
+task 11 Write a function that adds two numbers.
