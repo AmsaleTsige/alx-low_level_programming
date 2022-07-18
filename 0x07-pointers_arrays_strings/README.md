@@ -8,3 +8,4 @@ task 5 Write a function that locates a substring.
 task 6 Write a function that prints the chessboard.
 task 7 Write a function that prints the sum of the two diagonals of a square matrix of integers.
 task 8 Write a function that sets the value of a pointer to a char.
+task 9 crakme2
