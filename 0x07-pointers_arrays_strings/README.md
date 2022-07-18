@@ -6,3 +6,4 @@ task 3 Write a function that gets the length of a prefix substring.
 task 4 Write a function that searches a string for any of a set of bytes.
 task 5 Write a function that locates a substring.
 task 6 Write a function that prints the chessboard.
+task 7 Write a function that prints the sum of the two diagonals of a square matrix of integers.
