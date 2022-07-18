@@ -5,3 +5,4 @@ task 2 Write a function that locates a character in a string.
 task 3 Write a function that gets the length of a prefix substring.
 task 4 Write a function that searches a string for any of a set of bytes.
 task 5 Write a function that locates a substring.
+task 6 Write a function that prints the chessboard.
