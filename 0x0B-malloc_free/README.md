@@ -1,1 +1,2 @@
-This is Malloc, free
+This is Malloc, free ALXAssignment
+Task 0 Write a function that creates an array of chars, and initializes it with a specific char.
