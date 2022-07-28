@@ -17,7 +17,7 @@ if (argv[1][i] != '0')
 isn1 = 0;
 break;
 }
-for (i = 0; argv[2][i]; i++)
+for (i = 0; argv[2][i]; i++
 ;
 if (argv[2][i] != '0')
 {
@@ -31,31 +31,31 @@ exit(0);
 }
 }
 /**
- * _initialize_array - set memery to zero in a new array
- * @ar: char array.
- * @lar: length of the char array.
- * Return: pointer of a char array.
+* _initialize_array - set memery to zero in a new array
+* @ar: char array.
+* @lar: length of the char array.
+* Return: pointer of a char array.
 */
 char *_initialize_array(char *ar, int lar)
 {
 int i = 0;
-for (i = 0; i < lar; i++)
+for (i = 0; i < lar; i++
 ;
 ar[i] = '0';
 ar[lar] = '\0';
 return (ar);
 }
 /**
- * _checknum - determines length of the number
- * and checks if number is in base 10.
- * @argv: arguments vector.
- * @n: row of the array.
- * Return: length of the number.
+* _checknum - determines length of the number
+* and checks if number is in base 10.
+* @argv: arguments vector.
+* @n: row of the array.
+* Return: length of the number.
 */
 int _checknum(char *argv[], int n)
 {
 int ln;
-for (ln = 0; argv[n][ln]; ln++)
+for (ln = 0; argv[n][ln]; ln++
 ;
 if (!isdigit(argv[n][ln]))
 {
@@ -84,7 +84,6 @@ printf("Error\n"), exit(98);
 nout = _initialize_array(nout, lnout);
 k = lnout - 1, i = ln1 - 1, j = ln2 - 1, ca = addl = 0;
 for (; k >= 0; k--, i--)
-;
 {
 if (i < 0)
 {
