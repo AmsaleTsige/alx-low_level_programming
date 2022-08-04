@@ -7,6 +7,7 @@
 #include <stdarg.h>
 /**
  * print_numbers - Prints numbers, followed by a new line.
+ * @print: A function pointer to a function that prints a data type corresponding to symbol.
  * @separator: The string to be printed between numbers.
  * @n: The number of integers passed to the function.
  * @...: A variable number of numbers to be printed.
